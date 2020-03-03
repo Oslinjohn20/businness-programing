@@ -1,0 +1,33 @@
+BUsiness programming:
+
+Task 1: List 5 advantages and 5 disadvantages V-model methodoligies:
+
+Advantages:
+1. Simple and easy to use
+2. Testing activities like planning, test designing happenes well before coding. This saves alot of time. Hence higer chance of sucess over water fall model.
+3. Proactive defects tracking- that is defects are found at early stage.
+4. Works well for small projects where requirements are easily understood.
+5. Avoids the downward flow of defects.
+
+Disdvantages:
+1. Very rigid and least flexible 
+2. Software is developed during the implementation phase, so no early prototypes of the software are produced.
+3. If any changes happen in midway, then the test documents along with requirement documents has to be updated.
+4. Not suitable for bigger and complex projects.
+5. Don't scope for risk managment and risk mitigation
+
+Task 2: List 5 advantages and disadvantages of prototyping methodoligies:
+
+Advantages:
+1. Users can really feel the product.
+2. Test the usability of the product to find problems.
+3. Easy to communicate with the users, leaders and other relevant people.
+4. Improve the efficincy of the product design.
+5. A throw-away prtotype can be produce in days
+
+Disadvantages:
+1. Time-consuming with great expense, especially when you in a tight budget.
+2. Prtotype design may constrain the designer's ideas, the more you design, the smaller space available to the designer. It may decrease the designer's enthusiasm. If you don't require much design capability, you can't design high fidelity prototype.
+3. If the designer's knowledge is limited, it may not be possible to estimate the difficulty degree of implementation and will cause unlimite development time.
+4. System documentation is often absent or incomplete, because the primary focus is on development of the prototype.
+5. System backup and recovery can be overlooked in the haste to develop a prototype.
